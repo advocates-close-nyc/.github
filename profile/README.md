@@ -1,8 +1,9 @@
 # Advocates Close 
 
+
 ## Basic Research
 
-### Mathematics
+### Math
 
 #### Topology
 
@@ -14,38 +15,19 @@
 
 #### Unitaries
 
-#### Other Algebras
-
-
 #### Modular Arithmetic in Quantum Systems 
-
 - Chinese Remainder Theorem as identification channel
 - Discussion of "continuous" (interval) modulus
-
-
-
 ### Physics
-
 ### Chemistry
-
 ### Materials Science
 
 ### Computer Science
 #### Instruction Set Architechtures
- There needs to be a correspondence between what matters to me (fidelity of expression) and what gets measured by the machine. 
-#### Clockmaking
-- ClockTime 
-- 
+#### Clocktime
 
 ## Corporate Advisory
-
-
-=======
-
-
 ### Corporate Finance
-
 ### Corporate Governance
-
 ### Transaction Products
 
