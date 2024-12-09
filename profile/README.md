@@ -16,8 +16,6 @@
 
 #### Other Algebras
 
-#### Clockmaking 
-Here, the need is to define clocks in a way is infinitely scalable (in other words, it cannot be the case that we are limited to some number of clocks or other counters per core or otherwise in a quantum system. It was worth figuring a way out of this problem so please take the time to present this one properly.
 
 #### Modular Arithmetic in Quantum Systems 
 
@@ -33,6 +31,11 @@ Here, the need is to define clocks in a way is infinitely scalable (in other wor
 ### Materials Science
 
 ### Computer Science
+#### Instruction Set Architechtures
+ There needs to be a correspondence between what matters to me (fidelity of expression) and what gets measured by the machine. 
+#### Clockmaking
+- ClockTime 
+- 
 
 ## Corporate Advisory
 
